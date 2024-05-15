@@ -12,7 +12,7 @@ This project is a Python-based application that fetches daily affirmations from 
 
 ## Requirements
 
-- Python 3.x
+- Python 3.6
 - `requests` library
 - `twilio` library
 - `schedule` library
